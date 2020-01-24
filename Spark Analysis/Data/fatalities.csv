@@ -1,0 +1,1750 @@
+Year,ICD10 Code,ICD10 Diagnosis,Diagnosis Type,Metric,Sex,Value
+2014,All codes,All deaths,All deaths,Number of observed deaths,,459087
+2014,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,235820
+2014,C00-D48,All cancers,All cancers,Number of observed deaths,,136312
+2014,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,61744
+2014,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,126101
+2014,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,22335
+2014,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28826
+2014,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,2197
+2014,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,653
+2014,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6315
+2014,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,660
+2014,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4497
+2014,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3559
+2014,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,3598
+2014,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,7417
+2014,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8432
+2014,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2253
+2014,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1189
+2014,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,23439
+2014,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,23389
+2014,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,21784
+2014,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,56258
+2014,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2443
+2014,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,31670
+2014,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,5370
+2014,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,127
+2014,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,1744
+2014,All codes,All deaths,All deaths,Attributable number,,77800
+2014,C00-D48,All cancers,All cancers,Attributable number,,37400
+2014,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,23200
+2014,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,16400
+2014,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,800
+2014,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,23100
+2014,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1400
+2014,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2014,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2014,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2014,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2014,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2014,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,700
+2014,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1700
+2014,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3000
+2014,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2014,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1000
+2014,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,18000
+2014,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4100
+2014,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2800
+2014,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,7400
+2014,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,400
+2014,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2700
+2014,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,3100
+2014,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,0
+2014,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,800
+2014,All codes,All deaths,All deaths,Number of observed deaths,Male,223044
+2014,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,123135
+2014,C00-D48,All cancers,All cancers,Number of observed deaths,Male,72488
+2014,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29921
+2014,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,63814
+2014,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10942
+2014,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15844
+2014,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1490
+2014,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,537
+2014,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4270
+2014,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,0
+2014,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,3054
+2014,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,2228
+2014,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2320
+2014,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3710
+2014,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,4071
+2014,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1294
+2014,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,751
+2014,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11937
+2014,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10315
+2014,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9198
+2014,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,33725
+2014,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1012
+2014,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,13135
+2014,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,3220
+2014,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,60
+2014,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,964
+2014,All codes,All deaths,All deaths,Attributable number,Male,47000
+2014,C00-D48,All cancers,All cancers,Attributable number,Male,23800
+2014,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,12300
+2014,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,10400
+2014,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,500
+2014,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13700
+2014,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,1100
+2014,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2014,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2900
+2014,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,0
+2014,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1300
+2014,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2014,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,600
+2014,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,800
+2014,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2100
+2014,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2014,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,700
+2014,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,9300
+2014,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2400
+2014,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1600
+2014,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,5100
+2014,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2014,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1600
+2014,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2000
+2014,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,0
+2014,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,500
+2014,All codes,All deaths,All deaths,Number of observed deaths,Female,236043
+2014,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,112685
+2014,C00-D48,All cancers,All cancers,Number of observed deaths,Female,63824
+2014,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,31823
+2014,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,62287
+2014,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,11393
+2014,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12982
+2014,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,707
+2014,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,116
+2014,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2045
+2014,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,660
+2014,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1443
+2014,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1331
+2014,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1278
+2014,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3707
+2014,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4361
+2014,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,959
+2014,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,438
+2014,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,11502
+2014,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,13074
+2014,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,12586
+2014,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,22533
+2014,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1431
+2014,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,18535
+2014,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2150
+2014,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,67
+2014,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,780
+2014,All codes,All deaths,All deaths,Attributable number,Female,30800
+2014,C00-D48,All cancers,All cancers,Attributable number,Female,13600
+2014,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10800
+2014,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,6000
+2014,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,300
+2014,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9400
+2014,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2014,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2014,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1200
+2014,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2014,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2014,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2014,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,100
+2014,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2014,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,900
+2014,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2014,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2014,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,8800
+2014,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,1700
+2014,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1200
+2014,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,2300
+2014,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,200
+2014,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1100
+2014,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1200
+2014,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2014,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,300
+2013,All codes,All deaths,All deaths,Number of observed deaths,,463986
+2013,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,241683
+2013,C00-D48,All cancers,All cancers,Number of observed deaths,,134969
+2013,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,68891
+2013,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,129968
+2013,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,22458
+2013,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28521
+2013,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,2059
+2013,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,649
+2013,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6324
+2013,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,663
+2013,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4226
+2013,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3423
+2013,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,3733
+2013,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,7082
+2013,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8019
+2013,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2495
+2013,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1135
+2013,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,24462
+2013,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,24636
+2013,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,22901
+2013,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,59165
+2013,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2471
+2013,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,32274
+2013,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,5448
+2013,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,158
+2013,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,1839
+2013,All codes,All deaths,All deaths,Attributable number,,78200
+2013,C00-D48,All cancers,All cancers,Attributable number,,36800
+2013,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,23800
+2013,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,16700
+2013,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,900
+2013,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22800
+2013,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1300
+2013,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2013,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2013,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2013,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1600
+2013,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2013,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,700
+2013,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2013,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,2800
+2013,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2013,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1000
+2013,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,18900
+2013,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4000
+2013,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2900
+2013,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,7600
+2013,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,400
+2013,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2500
+2013,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,3200
+2013,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,0
+2013,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,900
+2013,All codes,All deaths,All deaths,Number of observed deaths,Male,223249
+2013,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,124504
+2013,C00-D48,All cancers,All cancers,Number of observed deaths,Male,71557
+2013,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,32618
+2013,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,64933
+2013,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10760
+2013,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15770
+2013,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1360
+2013,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,514
+2013,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4314
+2013,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2013,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2831
+2013,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,2132
+2013,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2395
+2013,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3534
+2013,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,3817
+2013,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1437
+2013,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,693
+2013,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,12418
+2013,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10514
+2013,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9509
+2013,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,34949
+2013,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1027
+2013,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,12995
+2013,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,3258
+2013,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,77
+2013,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,960
+2013,All codes,All deaths,All deaths,Attributable number,Male,47200
+2013,C00-D48,All cancers,All cancers,Attributable number,Male,23500
+2013,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,12600
+2013,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,10600
+2013,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,500
+2013,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13600
+2013,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,1000
+2013,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2013,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2900
+2013,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2013,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1200
+2013,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2013,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,600
+2013,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,800
+2013,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2000
+2013,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2013,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,600
+2013,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,9700
+2013,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2300
+2013,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1600
+2013,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,5200
+2013,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2013,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1500
+2013,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2000
+2013,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,0
+2013,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,500
+2013,All codes,All deaths,All deaths,Number of observed deaths,Female,240737
+2013,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,117179
+2013,C00-D48,All cancers,All cancers,Number of observed deaths,Female,63412
+2013,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,36273
+2013,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,65035
+2013,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,11698
+2013,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12751
+2013,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,699
+2013,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,135
+2013,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2010
+2013,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,663
+2013,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1395
+2013,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1291
+2013,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1338
+2013,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3548
+2013,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4202
+2013,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,1058
+2013,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,442
+2013,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,12044
+2013,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,14122
+2013,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13392
+2013,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,24216
+2013,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1444
+2013,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,19279
+2013,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2190
+2013,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,81
+2013,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,879
+2013,All codes,All deaths,All deaths,Attributable number,Female,31000
+2013,C00-D48,All cancers,All cancers,Attributable number,Female,13300
+2013,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,11200
+2013,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,6100
+2013,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,400
+2013,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9200
+2013,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2013,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2013,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1200
+2013,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2013,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2013,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2013,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2013,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2013,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,800
+2013,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2013,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2013,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,9200
+2013,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,1700
+2013,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1300
+2013,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,2400
+2013,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,200
+2013,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,900
+2013,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1200
+2013,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2013,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,400
+2012,All codes,All deaths,All deaths,Number of observed deaths,,457149
+2012,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,241368
+2012,C00-D48,All cancers,All cancers,Number of observed deaths,,135037
+2012,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,65790
+2012,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,131065
+2012,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,22699
+2012,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28289
+2012,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1934
+2012,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,634
+2012,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6322
+2012,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,702
+2012,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4374
+2012,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3463
+2012,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,3843
+2012,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,7218
+2012,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8162
+2012,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2473
+2012,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1067
+2012,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,23323
+2012,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,24142
+2012,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,22214
+2012,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,59520
+2012,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2387
+2012,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,33346
+2012,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,5798
+2012,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,179
+2012,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,1978
+2012,All codes,All deaths,All deaths,Attributable number,,78700
+2012,C00-D48,All cancers,All cancers,Attributable number,,37100
+2012,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,23300
+2012,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,17400
+2012,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1000
+2012,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22800
+2012,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1300
+2012,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2012,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2012,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2012,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2012,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2012,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,800
+2012,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1700
+2012,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,2900
+2012,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2012,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,900
+2012,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,18000
+2012,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4300
+2012,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2900
+2012,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,7800
+2012,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,400
+2012,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2800
+2012,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,3400
+2012,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,0
+2012,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1000
+2012,All codes,All deaths,All deaths,Number of observed deaths,Male,218370
+2012,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,123302
+2012,C00-D48,All cancers,All cancers,Number of observed deaths,Male,71349
+2012,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,31122
+2012,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,64273
+2012,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10828
+2012,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15607
+2012,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1317
+2012,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,505
+2012,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4340
+2012,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2012,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2959
+2012,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,2189
+2012,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2456
+2012,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3593
+2012,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,3877
+2012,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1412
+2012,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,659
+2012,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11992
+2012,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10191
+2012,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,8994
+2012,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,34634
+2012,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1017
+2012,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,13083
+2012,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,3374
+2012,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,75
+2012,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1028
+2012,All codes,All deaths,All deaths,Attributable number,Male,47300
+2012,C00-D48,All cancers,All cancers,Attributable number,Male,23700
+2012,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,12300
+2012,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,10800
+2012,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,500
+2012,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13600
+2012,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,1000
+2012,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2012,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,3000
+2012,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2012,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1300
+2012,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2012,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,600
+2012,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,800
+2012,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2000
+2012,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2012,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,600
+2012,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,9400
+2012,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2400
+2012,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1600
+2012,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,5300
+2012,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2012,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1600
+2012,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2100
+2012,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,0
+2012,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,500
+2012,All codes,All deaths,All deaths,Number of observed deaths,Female,238779
+2012,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,118066
+2012,C00-D48,All cancers,All cancers,Number of observed deaths,Female,63688
+2012,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,34668
+2012,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,66792
+2012,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,11871
+2012,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12682
+2012,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,617
+2012,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,129
+2012,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,1982
+2012,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,702
+2012,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1415
+2012,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1274
+2012,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1387
+2012,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3625
+2012,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4285
+2012,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,1061
+2012,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,408
+2012,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,11331
+2012,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,13951
+2012,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13220
+2012,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,24886
+2012,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1370
+2012,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,20263
+2012,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2424
+2012,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,104
+2012,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,950
+2012,All codes,All deaths,All deaths,Attributable number,Female,31400
+2012,C00-D48,All cancers,All cancers,Attributable number,Female,13400
+2012,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,11000
+2012,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,6600
+2012,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,400
+2012,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9200
+2012,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2012,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2012,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1200
+2012,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2012,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2012,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2012,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2012,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2012,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,900
+2012,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2012,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,300
+2012,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,8700
+2012,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2000
+2012,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1300
+2012,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,2500
+2012,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,200
+2012,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1200
+2012,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1300
+2012,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2012,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,400
+2011,All codes,All deaths,All deaths,Number of observed deaths,,442759
+2011,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,238301
+2011,C00-D48,All cancers,All cancers,Number of observed deaths,,132886
+2011,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,62801
+2011,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,129594
+2011,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,22675
+2011,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28143
+2011,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1867
+2011,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,640
+2011,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6191
+2011,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,702
+2011,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4211
+2011,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3451
+2011,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,3899
+2011,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6948
+2011,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8448
+2011,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2407
+2011,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1168
+2011,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,21673
+2011,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,23936
+2011,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,20784
+2011,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,59723
+2011,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2438
+2011,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,33562
+2011,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,5769
+2011,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,168
+2011,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,2173
+2011,All codes,All deaths,All deaths,Attributable number,,78600
+2011,C00-D48,All cancers,All cancers,Attributable number,,37200
+2011,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,22400
+2011,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,18000
+2011,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1100
+2011,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22900
+2011,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1200
+2011,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2011,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2011,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2011,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2011,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2011,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,800
+2011,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1700
+2011,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3100
+2011,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2011,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1000
+2011,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,17000
+2011,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4400
+2011,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2800
+2011,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,8300
+2011,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,400
+2011,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,2900
+2011,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,3500
+2011,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,0
+2011,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1100
+2011,All codes,All deaths,All deaths,Number of observed deaths,Male,212678
+2011,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,122270
+2011,C00-D48,All cancers,All cancers,Number of observed deaths,Male,69843
+2011,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29692
+2011,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,64381
+2011,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10981
+2011,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15694
+2011,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1207
+2011,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,519
+2011,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4179
+2011,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2011,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2846
+2011,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,2125
+2011,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2457
+2011,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3497
+2011,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,3897
+2011,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1337
+2011,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,716
+2011,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11129
+2011,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10086
+2011,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,8655
+2011,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,34908
+2011,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1008
+2011,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,13357
+2011,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,3434
+2011,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,74
+2011,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1145
+2011,All codes,All deaths,All deaths,Attributable number,Male,47100
+2011,C00-D48,All cancers,All cancers,Attributable number,Male,23600
+2011,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,11800
+2011,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,11200
+2011,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,600
+2011,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13700
+2011,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,900
+2011,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2011,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2900
+2011,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2011,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1200
+2011,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2011,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,600
+2011,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,800
+2011,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2100
+2011,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2011,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,600
+2011,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,8800
+2011,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2400
+2011,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1500
+2011,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,5600
+2011,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2011,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1700
+2011,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2100
+2011,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,0
+2011,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,600
+2011,All codes,All deaths,All deaths,Number of observed deaths,Female,230081
+2011,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,116031
+2011,C00-D48,All cancers,All cancers,Number of observed deaths,Female,63043
+2011,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,33109
+2011,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,65213
+2011,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,11694
+2011,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12449
+2011,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,660
+2011,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,121
+2011,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2012
+2011,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,702
+2011,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1365
+2011,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1326
+2011,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1442
+2011,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3451
+2011,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4551
+2011,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,1070
+2011,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,452
+2011,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,10544
+2011,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,13850
+2011,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,12129
+2011,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,24815
+2011,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1430
+2011,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,20205
+2011,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2335
+2011,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,94
+2011,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1028
+2011,All codes,All deaths,All deaths,Attributable number,Female,31500
+2011,C00-D48,All cancers,All cancers,Attributable number,Female,13700
+2011,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10600
+2011,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,6800
+2011,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,500
+2011,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9200
+2011,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2011,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2011,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1200
+2011,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2011,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2011,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2011,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2011,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2011,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1000
+2011,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2011,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2011,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,8200
+2011,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2000
+2011,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1300
+2011,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,2700
+2011,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2011,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1200
+2011,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1300
+2011,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2011,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,500
+2010,All codes,All deaths,All deaths,Number of observed deaths,,450571
+2010,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,252507
+2010,C00-D48,All cancers,All cancers,Number of observed deaths,,131390
+2010,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,62523
+2010,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,146680
+2010,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23621
+2010,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28044
+2010,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1818
+2010,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,601
+2010,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6199
+2010,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,699
+2010,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4131
+2010,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3357
+2010,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4041
+2010,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6587
+2010,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8075
+2010,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2268
+2010,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1130
+2010,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,21216
+2010,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,23565
+2010,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,23593
+2010,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,65128
+2010,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2511
+2010,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,40374
+2010,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,6456
+2010,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,374
+2010,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,2340
+2010,All codes,All deaths,All deaths,Attributable number,,80300
+2010,C00-D48,All cancers,All cancers,Attributable number,,37000
+2010,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,22100
+2010,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,20100
+2010,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1200
+2010,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22900
+2010,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1200
+2010,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2010,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2010,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2010,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1600
+2010,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2010,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,800
+2010,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2010,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,2900
+2010,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2010,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1000
+2010,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,16700
+2010,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4400
+2010,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3200
+2010,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,9100
+2010,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,400
+2010,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3300
+2010,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,3900
+2010,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,100
+2010,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1200
+2010,All codes,All deaths,All deaths,Number of observed deaths,Male,215789
+2010,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,127958
+2010,C00-D48,All cancers,All cancers,Number of observed deaths,Male,69085
+2010,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29342
+2010,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,71562
+2010,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,11153
+2010,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15736
+2010,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1207
+2010,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,480
+2010,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4180
+2010,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2010,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2797
+2010,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,2034
+2010,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2519
+2010,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3213
+2010,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,3733
+2010,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1234
+2010,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,664
+2010,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10968
+2010,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,9792
+2010,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9699
+2010,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,37789
+2010,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1053
+2010,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,15715
+2010,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,3848
+2010,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,143
+2010,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1154
+2010,All codes,All deaths,All deaths,Attributable number,Male,48000
+2010,C00-D48,All cancers,All cancers,Attributable number,Male,23400
+2010,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,11600
+2010,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,12300
+2010,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,600
+2010,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13700
+2010,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,900
+2010,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2010,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2900
+2010,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2010,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1200
+2010,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2010,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,600
+2010,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,700
+2010,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2000
+2010,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2010,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,600
+2010,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,8700
+2010,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2400
+2010,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1700
+2010,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,6000
+2010,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2010,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1900
+2010,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2400
+2010,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,0
+2010,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,600
+2010,All codes,All deaths,All deaths,Number of observed deaths,Female,234782
+2010,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,124549
+2010,C00-D48,All cancers,All cancers,Number of observed deaths,Female,62305
+2010,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,33181
+2010,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,75118
+2010,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12468
+2010,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12308
+2010,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,611
+2010,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,121
+2010,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2019
+2010,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,699
+2010,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1334
+2010,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1323
+2010,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1522
+2010,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3374
+2010,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4342
+2010,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,1034
+2010,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,466
+2010,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,10248
+2010,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,13773
+2010,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13894
+2010,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,27339
+2010,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1458
+2010,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,24659
+2010,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2608
+2010,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,231
+2010,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1186
+2010,All codes,All deaths,All deaths,Attributable number,Female,32300
+2010,C00-D48,All cancers,All cancers,Attributable number,Female,13500
+2010,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10500
+2010,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,7800
+2010,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,600
+2010,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9100
+2010,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2010,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2010,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1200
+2010,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2010,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2010,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2010,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2010,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2010,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1000
+2010,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2010,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2010,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,8000
+2010,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2100
+2010,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2010,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,3100
+2010,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2010,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1400
+2010,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2010,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2010,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,600
+2009,All codes,All deaths,All deaths,Number of observed deaths,,448230
+2009,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,255801
+2009,C00-D48,All cancers,All cancers,Number of observed deaths,,130316
+2009,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,62802
+2009,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,148332
+2009,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23150
+2009,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28043
+2009,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1783
+2009,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,611
+2009,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6214
+2009,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,729
+2009,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4207
+2009,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3098
+2009,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4027
+2009,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6686
+2009,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8410
+2009,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2230
+2009,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1191
+2009,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,20585
+2009,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,24975
+2009,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,23397
+2009,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,66974
+2009,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2593
+2009,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,40541
+2009,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,6549
+2009,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,418
+2009,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,2540
+2009,All codes,All deaths,All deaths,Attributable number,,82000
+2009,C00-D48,All cancers,All cancers,Attributable number,,37700
+2009,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,22100
+2009,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,20900
+2009,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1300
+2009,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,23100
+2009,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1200
+2009,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2009,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4200
+2009,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2009,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2009,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2009,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,900
+2009,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1700
+2009,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3200
+2009,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2009,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1000
+2009,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,16300
+2009,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4800
+2009,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3300
+2009,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,9600
+2009,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,500
+2009,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3400
+2009,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,4000
+2009,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,100
+2009,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1300
+2009,All codes,All deaths,All deaths,Number of observed deaths,Male,215355
+2009,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,129475
+2009,C00-D48,All cancers,All cancers,Number of observed deaths,Male,68624
+2009,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29526
+2009,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,71977
+2009,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10941
+2009,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15938
+2009,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1158
+2009,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,504
+2009,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4199
+2009,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2009,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2842
+2009,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,1890
+2009,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2560
+2009,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3253
+2009,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,3892
+2009,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1238
+2009,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,762
+2009,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10766
+2009,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10357
+2009,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9590
+2009,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,38434
+2009,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1099
+2009,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,15725
+2009,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,3847
+2009,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,166
+2009,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1255
+2009,All codes,All deaths,All deaths,Attributable number,Male,49400
+2009,C00-D48,All cancers,All cancers,Attributable number,Male,24100
+2009,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,11800
+2009,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,12800
+2009,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,700
+2009,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,14000
+2009,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,900
+2009,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2009,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,3000
+2009,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2009,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1300
+2009,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2009,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,700
+2009,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,800
+2009,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2100
+2009,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2009,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,700
+2009,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,8600
+2009,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2500
+2009,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1800
+2009,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,6300
+2009,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2009,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1900
+2009,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2500
+2009,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,0
+2009,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,700
+2009,All codes,All deaths,All deaths,Number of observed deaths,Female,232875
+2009,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,126326
+2009,C00-D48,All cancers,All cancers,Number of observed deaths,Female,61692
+2009,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,33276
+2009,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,76355
+2009,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12209
+2009,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12105
+2009,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,625
+2009,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,107
+2009,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2015
+2009,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,729
+2009,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1365
+2009,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1208
+2009,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1467
+2009,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3433
+2009,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4518
+2009,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,992
+2009,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,429
+2009,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,9819
+2009,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,14618
+2009,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13807
+2009,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,28540
+2009,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1494
+2009,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,24816
+2009,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2702
+2009,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,252
+2009,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1285
+2009,All codes,All deaths,All deaths,Attributable number,Female,32600
+2009,C00-D48,All cancers,All cancers,Attributable number,Female,13600
+2009,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10300
+2009,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,8100
+2009,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,600
+2009,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9100
+2009,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2009,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2009,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1300
+2009,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2009,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2009,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2009,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2009,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2009,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1000
+2009,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2009,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2009,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,7700
+2009,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2300
+2009,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2009,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,3200
+2009,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2009,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1400
+2009,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1600
+2009,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2009,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,600
+2008,All codes,All deaths,All deaths,Number of observed deaths,,464315
+2008,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,267551
+2008,C00-D48,All cancers,All cancers,Number of observed deaths,,130785
+2008,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,66875
+2008,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,156100
+2008,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23820
+2008,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,28207
+2008,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1663
+2008,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,674
+2008,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6114
+2008,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,709
+2008,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4182
+2008,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3098
+2008,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4204
+2008,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6499
+2008,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,8853
+2008,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2135
+2008,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1303
+2008,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,21886
+2008,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,26977
+2008,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,23661
+2008,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,71406
+2008,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2629
+2008,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,43223
+2008,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,6871
+2008,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,537
+2008,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,2720
+2008,All codes,All deaths,All deaths,Attributable number,,84200
+2008,C00-D48,All cancers,All cancers,Attributable number,,37700
+2008,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,23500
+2008,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,21800
+2008,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1400
+2008,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,23200
+2008,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1100
+2008,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2008,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2008,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2008,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2008,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2008,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,900
+2008,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2008,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3300
+2008,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2008,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1100
+2008,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,17300
+2008,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,5000
+2008,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3300
+2008,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,10200
+2008,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,500
+2008,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3500
+2008,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,4200
+2008,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,100
+2008,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1400
+2008,All codes,All deaths,All deaths,Number of observed deaths,Male,219448
+2008,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,133385
+2008,C00-D48,All cancers,All cancers,Number of observed deaths,Male,68227
+2008,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,30516
+2008,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,74836
+2008,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,11228
+2008,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,16009
+2008,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1042
+2008,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,541
+2008,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,4073
+2008,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2008,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2748
+2008,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,1870
+2008,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2627
+2008,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3168
+2008,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,4097
+2008,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1176
+2008,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,810
+2008,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11395
+2008,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10719
+2008,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9580
+2008,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,40231
+2008,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1107
+2008,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,16589
+2008,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,4093
+2008,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,189
+2008,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1321
+2008,All codes,All deaths,All deaths,Attributable number,Male,50400
+2008,C00-D48,All cancers,All cancers,Attributable number,Male,24000
+2008,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,12400
+2008,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,13300
+2008,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,700
+2008,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,14000
+2008,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,800
+2008,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2008,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2900
+2008,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2008,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1300
+2008,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2008,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,700
+2008,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,700
+2008,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2200
+2008,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2008,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,700
+2008,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,9100
+2008,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2600
+2008,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1800
+2008,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,6600
+2008,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2008,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,2000
+2008,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2600
+2008,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,100
+2008,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,700
+2008,All codes,All deaths,All deaths,Number of observed deaths,Female,244867
+2008,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,134166
+2008,C00-D48,All cancers,All cancers,Number of observed deaths,Female,62558
+2008,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,36359
+2008,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,81264
+2008,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12592
+2008,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,12198
+2008,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,621
+2008,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,133
+2008,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2041
+2008,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,709
+2008,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1434
+2008,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1228
+2008,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1577
+2008,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3331
+2008,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,4756
+2008,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,959
+2008,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,493
+2008,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,10491
+2008,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,16258
+2008,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,14081
+2008,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,31175
+2008,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1522
+2008,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,26634
+2008,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2778
+2008,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,348
+2008,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1399
+2008,All codes,All deaths,All deaths,Attributable number,Female,33900
+2008,C00-D48,All cancers,All cancers,Attributable number,Female,13700
+2008,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,11000
+2008,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,8500
+2008,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,700
+2008,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,9100
+2008,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2008,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2008,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1300
+2008,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2008,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2008,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2008,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2008,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2008,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1100
+2008,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2008,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2008,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,8200
+2008,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2400
+2008,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2008,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,3500
+2008,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2008,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2008,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1600
+2008,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2008,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,700
+2007,All codes,All deaths,All deaths,Number of observed deaths,,459291
+2007,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,267180
+2007,C00-D48,All cancers,All cancers,Number of observed deaths,,129564
+2007,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,64255
+2007,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,157925
+2007,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23703
+2007,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,27656
+2007,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1652
+2007,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,597
+2007,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,5946
+2007,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,701
+2007,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4123
+2007,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3017
+2007,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4233
+2007,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6381
+2007,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,9378
+2007,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2091
+2007,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1287
+2007,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,20881
+2007,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,26244
+2007,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,22503
+2007,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,74066
+2007,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2612
+2007,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,43382
+2007,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,7213
+2007,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,553
+2007,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,2664
+2007,All codes,All deaths,All deaths,Attributable number,,82400
+2007,C00-D48,All cancers,All cancers,Attributable number,,37000
+2007,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,22200
+2007,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,21800
+2007,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1300
+2007,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22700
+2007,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1100
+2007,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2007,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4000
+2007,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2007,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2007,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,700
+2007,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,900
+2007,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2007,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3400
+2007,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2007,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1100
+2007,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,16500
+2007,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4700
+2007,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3100
+2007,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,10300
+2007,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,500
+2007,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3400
+2007,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,4400
+2007,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,100
+2007,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1300
+2007,All codes,All deaths,All deaths,Number of observed deaths,Male,217111
+2007,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,133291
+2007,C00-D48,All cancers,All cancers,Number of observed deaths,Male,67429
+2007,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29329
+2007,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,75899
+2007,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,11007
+2007,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15800
+2007,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1126
+2007,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,476
+2007,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,3904
+2007,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2007,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2776
+2007,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,1856
+2007,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2660
+2007,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3099
+2007,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,4267
+2007,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1153
+2007,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,794
+2007,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10758
+2007,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10485
+2007,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9027
+2007,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,41620
+2007,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1095
+2007,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,16566
+2007,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,4354
+2007,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,197
+2007,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1278
+2007,All codes,All deaths,All deaths,Attributable number,Male,49700
+2007,C00-D48,All cancers,All cancers,Attributable number,Male,23700
+2007,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,11800
+2007,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,13500
+2007,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,700
+2007,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13800
+2007,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,800
+2007,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2007,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2700
+2007,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2007,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1300
+2007,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,600
+2007,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,700
+2007,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,700
+2007,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2300
+2007,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2007,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,700
+2007,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,8600
+2007,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2500
+2007,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1700
+2007,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,6800
+2007,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2007,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,2000
+2007,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2800
+2007,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,100
+2007,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,700
+2007,All codes,All deaths,All deaths,Number of observed deaths,Female,242180
+2007,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,133889
+2007,C00-D48,All cancers,All cancers,Number of observed deaths,Female,62135
+2007,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,34926
+2007,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,82026
+2007,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12696
+2007,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,11856
+2007,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,526
+2007,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,121
+2007,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2042
+2007,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,701
+2007,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1347
+2007,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1161
+2007,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1573
+2007,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3282
+2007,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,5111
+2007,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,938
+2007,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,493
+2007,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,10123
+2007,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,15759
+2007,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13476
+2007,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,32446
+2007,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1517
+2007,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,26816
+2007,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2859
+2007,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,356
+2007,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1386
+2007,All codes,All deaths,All deaths,Attributable number,Female,32700
+2007,C00-D48,All cancers,All cancers,Attributable number,Female,13300
+2007,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10400
+2007,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,8400
+2007,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,600
+2007,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,8800
+2007,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2007,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2007,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1300
+2007,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2007,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2007,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2007,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2007,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2007,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1100
+2007,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2007,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2007,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,7900
+2007,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2100
+2007,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1400
+2007,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,3500
+2007,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2007,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1400
+2007,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1600
+2007,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,0
+2007,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,600
+2006,All codes,All deaths,All deaths,Number of observed deaths,,459060
+2006,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,271775
+2006,C00-D48,All cancers,All cancers,Number of observed deaths,,128485
+2006,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,64091
+2006,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,162114
+2006,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23846
+2006,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,27355
+2006,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1547
+2006,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,620
+2006,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6058
+2006,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,721
+2006,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4040
+2006,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,3066
+2006,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4200
+2006,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6173
+2006,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,9632
+2006,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2067
+2006,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1321
+2006,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,20483
+2006,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,26814
+2006,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,22269
+2006,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,76668
+2006,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2651
+2006,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,45088
+2006,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,7373
+2006,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,669
+2006,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,2960
+2006,All codes,All deaths,All deaths,Attributable number,,83400
+2006,C00-D48,All cancers,All cancers,Attributable number,,37000
+2006,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,22100
+2006,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,22700
+2006,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1500
+2006,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22500
+2006,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1000
+2006,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2006,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2006,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2006,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1600
+2006,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2006,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,900
+2006,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2006,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3600
+2006,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2006,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1100
+2006,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,16200
+2006,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,4800
+2006,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3100
+2006,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,10800
+2006,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,500
+2006,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3600
+2006,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,4500
+2006,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,100
+2006,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1500
+2006,All codes,All deaths,All deaths,Number of observed deaths,Male,218077
+2006,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,136026
+2006,C00-D48,All cancers,All cancers,Number of observed deaths,Male,67130
+2006,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29350
+2006,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,78047
+2006,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,11157
+2006,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15829
+2006,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,986
+2006,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,487
+2006,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,3980
+2006,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2006,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2671
+2006,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,1923
+2006,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2605
+2006,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,3053
+2006,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,4528
+2006,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1167
+2006,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,842
+2006,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10692
+2006,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10737
+2006,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,8860
+2006,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,42991
+2006,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1156
+2006,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,17400
+2006,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,4421
+2006,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,251
+2006,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1447
+2006,All codes,All deaths,All deaths,Attributable number,Male,50400
+2006,C00-D48,All cancers,All cancers,Attributable number,Male,23800
+2006,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,11800
+2006,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,13900
+2006,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,800
+2006,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13900
+2006,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,700
+2006,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2006,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2800
+2006,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2006,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1200
+2006,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2006,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,700
+2006,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,700
+2006,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2500
+2006,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2006,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,800
+2006,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,8500
+2006,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2600
+2006,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1700
+2006,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,7100
+2006,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2006,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,2100
+2006,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,2800
+2006,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,100
+2006,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,800
+2006,All codes,All deaths,All deaths,Number of observed deaths,Female,240983
+2006,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,135749
+2006,C00-D48,All cancers,All cancers,Number of observed deaths,Female,61355
+2006,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,34741
+2006,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,84067
+2006,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12689
+2006,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,11526
+2006,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,561
+2006,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,133
+2006,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2078
+2006,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,721
+2006,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1369
+2006,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1143
+2006,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1595
+2006,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3120
+2006,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,5104
+2006,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,900
+2006,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,479
+2006,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,9791
+2006,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,16077
+2006,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13409
+2006,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,33677
+2006,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1495
+2006,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,27688
+2006,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,2952
+2006,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,418
+2006,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1513
+2006,All codes,All deaths,All deaths,Attributable number,Female,33000
+2006,C00-D48,All cancers,All cancers,Attributable number,Female,13200
+2006,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10300
+2006,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,8800
+2006,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,700
+2006,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,8600
+2006,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2006,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2006,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1300
+2006,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2006,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2006,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2006,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2006,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,800
+2006,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1200
+2006,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2006,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2006,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,7700
+2006,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2200
+2006,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2006,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,3700
+2006,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2006,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1500
+2006,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1700
+2006,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,100
+2006,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,700
+2005,All codes,All deaths,All deaths,Number of observed deaths,,468391
+2005,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,283565
+2005,C00-D48,All cancers,All cancers,Number of observed deaths,,128089
+2005,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,67535
+2005,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,170341
+2005,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23298
+2005,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,26790
+2005,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1584
+2005,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,607
+2005,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,6052
+2005,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,792
+2005,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,3909
+2005,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,2921
+2005,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4559
+2005,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,6066
+2005,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,10005
+2005,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2075
+2005,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1394
+2005,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,21149
+2005,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,29344
+2005,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,23262
+2005,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,81691
+2005,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2825
+2005,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,47222
+2005,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,7616
+2005,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,676
+2005,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,3026
+2005,All codes,All deaths,All deaths,Attributable number,,88100
+2005,C00-D48,All cancers,All cancers,Attributable number,,37400
+2005,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,23700
+2005,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,25400
+2005,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1600
+2005,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22300
+2005,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1100
+2005,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2005,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4200
+2005,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2005,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1600
+2005,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2005,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,1000
+2005,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2005,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,3900
+2005,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2005,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1200
+2005,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,16900
+2005,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,5600
+2005,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3500
+2005,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,12100
+2005,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,600
+2005,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,4300
+2005,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,4800
+2005,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,100
+2005,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1600
+2005,All codes,All deaths,All deaths,Number of observed deaths,Male,220665
+2005,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,140636
+2005,C00-D48,All cancers,All cancers,Number of observed deaths,Male,66618
+2005,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,30466
+2005,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,81540
+2005,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10627
+2005,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15680
+2005,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1043
+2005,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,480
+2005,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,3977
+2005,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2005,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2582
+2005,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,1838
+2005,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2873
+2005,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,2892
+2005,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,4613
+2005,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1145
+2005,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,856
+2005,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11124
+2005,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11399
+2005,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9285
+2005,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,45532
+2005,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1204
+2005,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,17921
+2005,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,4549
+2005,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,233
+2005,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1410
+2005,All codes,All deaths,All deaths,Attributable number,Male,53300
+2005,C00-D48,All cancers,All cancers,Attributable number,Male,24200
+2005,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,12700
+2005,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,15600
+2005,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,800
+2005,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,13900
+2005,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,800
+2005,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2005,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2800
+2005,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2005,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1200
+2005,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2005,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,800
+2005,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,700
+2005,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2600
+2005,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2005,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,800
+2005,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,9000
+2005,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2900
+2005,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1900
+2005,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,8000
+2005,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2005,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,2500
+2005,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,3000
+2005,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,100
+2005,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,800
+2005,All codes,All deaths,All deaths,Number of observed deaths,Female,247726
+2005,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,142929
+2005,C00-D48,All cancers,All cancers,Number of observed deaths,Female,61471
+2005,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,37069
+2005,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,88801
+2005,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12671
+2005,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,11110
+2005,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,541
+2005,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,127
+2005,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2075
+2005,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,792
+2005,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1327
+2005,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1083
+2005,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1686
+2005,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3174
+2005,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,5392
+2005,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,930
+2005,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,538
+2005,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,10025
+2005,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,17945
+2005,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,13977
+2005,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,36159
+2005,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1621
+2005,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,29301
+2005,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,3067
+2005,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,443
+2005,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1616
+2005,All codes,All deaths,All deaths,Attributable number,Female,34900
+2005,C00-D48,All cancers,All cancers,Attributable number,Female,13300
+2005,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,11100
+2005,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,9800
+2005,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,800
+2005,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,8500
+2005,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2005,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2005,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1300
+2005,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2005,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2005,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2005,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2005,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2005,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1300
+2005,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2005,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,400
+2005,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,7900
+2005,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2700
+2005,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1600
+2005,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,4100
+2005,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,300
+2005,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1800
+2005,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1800
+2005,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,100
+2005,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,800
+2004,All codes,All deaths,All deaths,Number of observed deaths,,469186
+2004,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,,289408
+2004,C00-D48,All cancers,All cancers,Number of observed deaths,,127787
+2004,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,,64718
+2004,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,,177334
+2004,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,,23065
+2004,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,,26392
+2004,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,,1594
+2004,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,,629
+2004,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,,5888
+2004,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,,845
+2004,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,,4061
+2004,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,,2901
+2004,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,,4674
+2004,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,,5875
+2004,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,,10430
+2004,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,,2071
+2004,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,,1473
+2004,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,,20180
+2004,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,,28799
+2004,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,23223
+2004,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,86039
+2004,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,2826
+2004,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,,49388
+2004,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,,8070
+2004,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,,746
+2004,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,,3304
+2004,All codes,All deaths,All deaths,Attributable number,,89500
+2004,C00-D48,All cancers,All cancers,Attributable number,,37700
+2004,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,,23100
+2004,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,,26900
+2004,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,,1800
+2004,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,,22200
+2004,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,,1100
+2004,C32,Larynx,Cancers which can be caused by smoking,Attributable number,,500
+2004,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,,4100
+2004,C53,Cervical,Cancers which can be caused by smoking,Attributable number,,100
+2004,C67,Bladder,Cancers which can be caused by smoking,Attributable number,,1700
+2004,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,,800
+2004,C16,Stomach,Cancers which can be caused by smoking,Attributable number,,1000
+2004,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,,1600
+2004,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,,4200
+2004,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,,400
+2004,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,,1300
+2004,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,,16200
+2004,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,,5600
+2004,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,3600
+2004,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,,12800
+2004,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,,600
+2004,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,,4600
+2004,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,,5200
+2004,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,,200
+2004,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,,1800
+2004,All codes,All deaths,All deaths,Number of observed deaths,Male,221731
+2004,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Male,143800
+2004,C00-D48,All cancers,All cancers,Number of observed deaths,Male,66765
+2004,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Male,29562
+2004,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Male,84808
+2004,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Male,10439
+2004,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Male,15728
+2004,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Male,1039
+2004,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Male,502
+2004,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Male,3822
+2004,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Male,.
+2004,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Male,2687
+2004,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Male,1771
+2004,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Male,2889
+2004,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Male,2836
+2004,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Male,4948
+2004,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Male,1115
+2004,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,876
+2004,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,10793
+2004,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Male,11247
+2004,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,9052
+2004,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,47800
+2004,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,1166
+2004,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,18843
+2004,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,4900
+2004,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Male,257
+2004,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Male,1529
+2004,All codes,All deaths,All deaths,Attributable number,Male,54700
+2004,C00-D48,All cancers,All cancers,Attributable number,Male,24600
+2004,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Male,12500
+2004,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Male,16800
+2004,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Male,900
+2004,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Male,14000
+2004,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Male,800
+2004,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Male,400
+2004,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Male,2800
+2004,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Male,.
+2004,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Male,1300
+2004,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Male,700
+2004,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Male,800
+2004,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Male,800
+2004,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Male,2800
+2004,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Male,300
+2004,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Male,800
+2004,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Male,8800
+2004,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Male,2900
+2004,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,1900
+2004,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,8600
+2004,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,200
+2004,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Male,2700
+2004,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Male,3200
+2004,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Male,100
+2004,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Male,900
+2004,All codes,All deaths,All deaths,Number of observed deaths,Female,247455
+2004,C33-C34 & C00-C14 & C15 & C32 & C53 & C67 & C64-C66 & C68 & C16 & C25 & C80 & C92 & J40-J43 & J44 & J10-J18 & I00-I09 & I26-I51 & I20-I25 & I72-I78 & I60-I69 & I71 & I70 & K25-K27 & K50 & K05 & H25 & S72.0-S72.2 & O03,All deaths which can be caused by smoking,All deaths which can be caused by smoking,Number of observed deaths,Female,145608
+2004,C00-D48,All cancers,All cancers,Number of observed deaths,Female,61022
+2004,J00-J99,All respiratory diseases,All respiratory diseases,Number of observed deaths,Female,35156
+2004,I00-I99,All circulatory diseases,All circulatory diseases,Number of observed deaths,Female,92526
+2004,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Number of observed deaths,Female,12626
+2004,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Number of observed deaths,Female,10664
+2004,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Number of observed deaths,Female,555
+2004,C32,Larynx,Cancers which can be caused by smoking,Number of observed deaths,Female,127
+2004,C15,Oesophagus,Cancers which can be caused by smoking,Number of observed deaths,Female,2066
+2004,C53,Cervical,Cancers which can be caused by smoking,Number of observed deaths,Female,845
+2004,C67,Bladder,Cancers which can be caused by smoking,Number of observed deaths,Female,1374
+2004,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Number of observed deaths,Female,1130
+2004,C16,Stomach,Cancers which can be caused by smoking,Number of observed deaths,Female,1785
+2004,C25,Pancreas,Cancers which can be caused by smoking,Number of observed deaths,Female,3039
+2004,C80,Unspecified Site,Cancers which can be caused by smoking,Number of observed deaths,Female,5482
+2004,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Number of observed deaths,Female,956
+2004,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,597
+2004,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,9387
+2004,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Number of observed deaths,Female,17552
+2004,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,14171
+2004,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,38239
+2004,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,1660
+2004,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,30545
+2004,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,3170
+2004,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Number of observed deaths,Female,489
+2004,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Number of observed deaths,Female,1775
+2004,All codes,All deaths,All deaths,Attributable number,Female,34800
+2004,C00-D48,All cancers,All cancers,Attributable number,Female,13100
+2004,J00-J99,All respiratory diseases,All respiratory diseases,Attributable number,Female,10600
+2004,I00-I99,All circulatory diseases,All circulatory diseases,Attributable number,Female,10200
+2004,K00-K93,All diseases of the digestive system,All diseases of the digestive system,Attributable number,Female,900
+2004,C33-C34,"Trachea, Lung, Bronchus",Cancers which can be caused by smoking,Attributable number,Female,8200
+2004,C00-C14,Upper Respiratory Sites,Cancers which can be caused by smoking,Attributable number,Female,300
+2004,C32,Larynx,Cancers which can be caused by smoking,Attributable number,Female,100
+2004,C15,Oesophagus,Cancers which can be caused by smoking,Attributable number,Female,1300
+2004,C53,Cervical,Cancers which can be caused by smoking,Attributable number,Female,100
+2004,C67,Bladder,Cancers which can be caused by smoking,Attributable number,Female,400
+2004,C64-C66 & C68,Kidney and Renal Pelvis,Cancers which can be caused by smoking,Attributable number,Female,100
+2004,C16,Stomach,Cancers which can be caused by smoking,Attributable number,Female,200
+2004,C25,Pancreas,Cancers which can be caused by smoking,Attributable number,Female,900
+2004,C80,Unspecified Site,Cancers which can be caused by smoking,Attributable number,Female,1300
+2004,C92,Myeloid Leukaemia,Cancers which can be caused by smoking,Attributable number,Female,100
+2004,J40-J43,Chronic Obstructive Lung Disease,Respiratory diseases which can be caused by smoking,Attributable number,Female,500
+2004,J44,Chronic Airway Obstruction,Respiratory diseases which can be caused by smoking,Attributable number,Female,7500
+2004,J10-J18,"Pneumonia, Influenza",Respiratory diseases which can be caused by smoking,Attributable number,Female,2600
+2004,I00-I09 & I26-I51,Other Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1700
+2004,I20-I25,Ischaemic Heart Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,4200
+2004,I72-I78,Other arterial disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,400
+2004,I60-I69,Cerebrovascular Disease,Circulatory diseases which can be caused by smoking,Attributable number,Female,1900
+2004,I71,Aortic Aneurysm,Circulatory diseases which can be caused by smoking,Attributable number,Female,1900
+2004,I70,Atherosclerosis,Circulatory diseases which can be caused by smoking,Attributable number,Female,100
+2004,K25-K27,Stomach / Duodenal Ulcer,Digestive diseases which can be caused caused by smoking,Attributable number,Female,900

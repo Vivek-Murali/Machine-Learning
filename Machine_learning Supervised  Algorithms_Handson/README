@@ -1,0 +1,33 @@
+The source code in this directory was done in Python 3.6
+Analysis was done using the latest version of scikit-learn, a Python machine learning library. For attribution purposes, articles required by scikit-learn are cited:
+
+Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+API design for machine learning software: experiences from the scikit-learn project, Buitinck et al., 2013.
+
+Installation:
+To run the code in this project, make sure you have matplotlib, seaborn, numpy, sklearn, pandas, keras,and scipy installed
+
+Top level folder overview:
+Churn_modeling.py - Contains the implementation of all 5 Algorithms on the Churn-Modeling Dataset
+Churn_modeling.csv[Dataset]- Consisting of the Churn_modeling data  
+Census.py - Contains the implementation of all 5 Algorithms on Census Dataset
+Census.csv[Dataset]-Consisting of the Census data 
+Sharpnel007-analysis.pdf - contains the written report derived from the performed analyses/experiments
+
+Dataset Information:
+I used two datasets in this assignment. The first dataset the Churn_modeling dataset [1] showing the people exited from the bank in 3 different nations and The second dataset is the Census dataset [2] showing demographic, education, matrial status determining people earning 50k .
+ 
+How to use:
+- The code also contains implementation of 5 Algorithms with asking input from the user to perform actions i.e. asking user to which algorithms should be implemented .
+- The menu will be displayed 1st asking for the input and menu consiting of following option 1.Decision Tree 2.Neural Networks 3.SVM 4.Adaboosting 5. KNN 
+- Simply run the python file  corresponding dataset.
+
+How to run a Python file:
+- on Windows: python "filename".py - with no quotations
+- on Mac: python3 "filename".py - with no quotations
+- on Linux: python3 "filename".py - with no quotations
+
+Installation of required Modules for this Analysis:
+matplotlib, seaborn, numpy, sklearn, pandas, keras,and scipy
+-pip3 install "Module_name" - with no quotations
+
